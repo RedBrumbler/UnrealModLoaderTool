@@ -1,6 +1,6 @@
 # Why this?
 
-We wanted an easier way of building our mods for [Unreal ModLoader]() so I made this tool to simplify building & copying the files to their proper names into the proper folder for your mod
+We wanted an easier way of building our mods for [Unreal ModLoader](https://github.com/RussellJerome/UnrealModLoader) so I made this tool to simplify building & copying the files to their proper names into the proper folder for your mod
 
 # Building the program
 
