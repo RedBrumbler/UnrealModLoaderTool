@@ -1,0 +1,11 @@
+{
+    "enginePath": "S:/Program Files/Epic Games/UE_4.25",
+    "outputPath": "S:/Program Files (x86)/Steam/steamapps/common/Billie Bust Up/BillieBustUp/Content/Paks/LogicMods",
+    "buildPath": "S:/Users/redbr/Documents/Unreal Projects/BillieBustUp",
+    "paks": [
+        {
+            "pakNumber": 300,
+            "pakName": "ModTester"
+        }
+    ]
+}
